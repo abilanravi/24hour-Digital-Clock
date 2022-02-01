@@ -2,7 +2,7 @@ import time
 import sys
 from tkinter import Tk
 from tkinter import Label
-
+#importing time and sys modules to help make the clock
 #Tk for the screen and Label to use words
 
 master_screen = Tk()
